@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: coin
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 77fa6c59ee616154fb8ad4afb93340e8, type: 3}
+    - {fileID: 2800000, guid: 37f484dbd6c104c4090ae4e3af876354, type: 3}
+    - {fileID: 2800000, guid: d8d333625c903be41a6f973259de6bd9, type: 3}
+    - {fileID: 2800000, guid: ec42171e2dd8ceb469c16725fbd5f850, type: 3}
+    - {fileID: 2800000, guid: f77c2f6d0c2ed83418c09d94d3be1cc5, type: 3}
+    - {fileID: 2800000, guid: 113f470b9f925b6459de280c0ecd9b99, type: 3}
+    - {fileID: 2800000, guid: 9eafff7bc1a3f64429d09aca4310779b, type: 3}
+    - {fileID: 2800000, guid: 33f08b07cd56c2a4a8c4304206e4bb9a, type: 3}
+    - {fileID: 2800000, guid: 5ffa482198b003944938d0c245f3c943, type: 3}
+    - {fileID: 2800000, guid: 47bc667c2b2554748a92b0e3332aec61, type: 3}
+    - {fileID: 2800000, guid: 32c4624f3e6ce8a4485da016560a026b, type: 3}
+    - {fileID: 2800000, guid: 23aa1449bbaac1641b7c6afdb1bcccbc, type: 3}
+    - {fileID: 2800000, guid: 81d956a760025ad4a92b2236d03b69b0, type: 3}
+    - {fileID: 2800000, guid: 901832f6b787c6048a2160a1bf8bc00d, type: 3}
+    - {fileID: 2800000, guid: e87704f4a6a68e04c8215f6580705e2c, type: 3}
+    - {fileID: 2800000, guid: f69533ec88c98294ba91c2a4c42befbc, type: 3}
+    - {fileID: 2800000, guid: 4a8ce37b4c8b2d94382ec7c1f2aef580, type: 3}
+    - {fileID: 2800000, guid: c09f6695c69564d4092035a1a93739c8, type: 3}
+    - {fileID: 2800000, guid: 924b6c7759c6fbe4d977007158c7c922, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 5ffa482198b003944938d0c245f3c943: 21300000
+    - d8d333625c903be41a6f973259de6bd9: 21300000
+    - e87704f4a6a68e04c8215f6580705e2c: 21300000
+    - c09f6695c69564d4092035a1a93739c8: 21300000
+    - 901832f6b787c6048a2160a1bf8bc00d: 21300000
+    - 33f08b07cd56c2a4a8c4304206e4bb9a: 21300000
+    - 924b6c7759c6fbe4d977007158c7c922: 21300000
+    - 81d956a760025ad4a92b2236d03b69b0: 21300000
+    - 23aa1449bbaac1641b7c6afdb1bcccbc: 21300000
+    - 77fa6c59ee616154fb8ad4afb93340e8: 21300000
+    - 113f470b9f925b6459de280c0ecd9b99: 21300000
+    - 4a8ce37b4c8b2d94382ec7c1f2aef580: 21300000
+    - 9eafff7bc1a3f64429d09aca4310779b: 21300000
+    - 37f484dbd6c104c4090ae4e3af876354: 21300000
+    - 47bc667c2b2554748a92b0e3332aec61: 21300000
+    - f69533ec88c98294ba91c2a4c42befbc: 21300000
+    - f77c2f6d0c2ed83418c09d94d3be1cc5: 21300000
+    - ec42171e2dd8ceb469c16725fbd5f850: 21300000
+    - 32c4624f3e6ce8a4485da016560a026b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5ffa482198b003944938d0c245f3c943, type: 3}
+  - {fileID: 21300000, guid: d8d333625c903be41a6f973259de6bd9, type: 3}
+  - {fileID: 21300000, guid: e87704f4a6a68e04c8215f6580705e2c, type: 3}
+  - {fileID: 21300000, guid: c09f6695c69564d4092035a1a93739c8, type: 3}
+  - {fileID: 21300000, guid: 901832f6b787c6048a2160a1bf8bc00d, type: 3}
+  - {fileID: 21300000, guid: 33f08b07cd56c2a4a8c4304206e4bb9a, type: 3}
+  - {fileID: 21300000, guid: 924b6c7759c6fbe4d977007158c7c922, type: 3}
+  - {fileID: 21300000, guid: 81d956a760025ad4a92b2236d03b69b0, type: 3}
+  - {fileID: 21300000, guid: 23aa1449bbaac1641b7c6afdb1bcccbc, type: 3}
+  - {fileID: 21300000, guid: 77fa6c59ee616154fb8ad4afb93340e8, type: 3}
+  - {fileID: 21300000, guid: 113f470b9f925b6459de280c0ecd9b99, type: 3}
+  - {fileID: 21300000, guid: 4a8ce37b4c8b2d94382ec7c1f2aef580, type: 3}
+  - {fileID: 21300000, guid: 9eafff7bc1a3f64429d09aca4310779b, type: 3}
+  - {fileID: 21300000, guid: 37f484dbd6c104c4090ae4e3af876354, type: 3}
+  - {fileID: 21300000, guid: 47bc667c2b2554748a92b0e3332aec61, type: 3}
+  - {fileID: 21300000, guid: f69533ec88c98294ba91c2a4c42befbc, type: 3}
+  - {fileID: 21300000, guid: f77c2f6d0c2ed83418c09d94d3be1cc5, type: 3}
+  - {fileID: 21300000, guid: ec42171e2dd8ceb469c16725fbd5f850, type: 3}
+  - {fileID: 21300000, guid: 32c4624f3e6ce8a4485da016560a026b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin_09
+  - coin_03
+  - coin_15
+  - coin_18
+  - coin_14
+  - coin_08
+  - coin_19
+  - coin_13
+  - coin_12
+  - coin_01
+  - coin_06
+  - coin_17
+  - coin_07
+  - coin_02
+  - coin_10
+  - coin_16
+  - coin_05
+  - coin_04
+  - coin_11
+  m_RenderDataMap: {}
+  m_Tag: coin
+  m_IsVariant: 0
